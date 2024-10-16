@@ -1,8 +1,5 @@
 # 👋 Hello there, I'm Magda
 
-------
-
-
 ## 🎓 Computer Science Student | 💻 Aspiring Software Developer
 
 ### 🚀 About Me
