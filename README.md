@@ -10,6 +10,6 @@ I'm a passionate Computer Science student at PJAIT, interested in Java-based app
 - **Python - Apartment price analysis and prediction:** Checkout ➡️ [here](https://github.com/rojxk/warsaw-apartment-price-prediction)
 
 ### 🌱 I'm currently learning
-- Spring Boot, Spring MVC
+- Spring Boot, Spring REST API
 - MongoDB 
 
